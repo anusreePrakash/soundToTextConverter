@@ -1,0 +1,27 @@
+{
+  "name": "speechtotextconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusreePrakash/soundToTextConverter.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "anusree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anusreePrakash/soundToTextConverter/issues"
+  },
+  "homepage": "https://github.com/anusreePrakash/soundToTextConverter#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
